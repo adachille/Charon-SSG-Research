@@ -1,0 +1,1693 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ FqkCNxeKB02r1dmrS0CboCxuwYrtnbuNW9TdSvuc7jvFLd6g1sDpPl/TJQDJOKEr
+ cu7HYOkQq84Z6XFYQotZQw==
+
+<SEC-DOCUMENT>0000908737-04-000667.txt : 20040831
+<SEC-HEADER>0000908737-04-000667.hdr.sgml : 20040831
+<ACCEPTANCE-DATETIME>20040831173912
+ACCESSION NUMBER:		0000908737-04-000667
+CONFORMED SUBMISSION TYPE:	SC TO-I
+PUBLIC DOCUMENT COUNT:		6
+FILED AS OF DATE:		20040831
+DATE AS OF CHANGE:		20040831
+GROUP MEMBERS:		HYPERION STRATEGIC BOND FUND, INC.
+
+SUBJECT COMPANY:	
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HYPERION STRATEGIC BOND FUND INC
+		CENTRAL INDEX KEY:			0001000401
+		IRS NUMBER:				133910721
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-I
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	005-58843
+		FILM NUMBER:		041009369
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE LIBERTY PLAZA
+		STREET 2:		165 BROADWAY, 36TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006-1404
+		BUSINESS PHONE:		2125498400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE LIBERTY PLAZA
+		STREET 2:		165 BROADWAY, 36TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006-1404
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HYPERION HIGH YIELD CMBS FUND INC
+		DATE OF NAME CHANGE:	20000512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EQUITABLE REAL ESTATE HYPERION HIGH YLD CMMERCL MORTG FD INC
+		DATE OF NAME CHANGE:	19950912
+
+FILED BY:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HYPERION STRATEGIC BOND FUND INC
+		CENTRAL INDEX KEY:			0001000401
+		IRS NUMBER:				133910721
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		SC TO-I
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE LIBERTY PLAZA
+		STREET 2:		165 BROADWAY, 36TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006-1404
+		BUSINESS PHONE:		2125498400
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE LIBERTY PLAZA
+		STREET 2:		165 BROADWAY, 36TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10006-1404
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HYPERION HIGH YIELD CMBS FUND INC
+		DATE OF NAME CHANGE:	20000512
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EQUITABLE REAL ESTATE HYPERION HIGH YLD CMMERCL MORTG FD INC
+		DATE OF NAME CHANGE:	19950912
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>SC TO-I
+<SEQUENCE>1
+<FILENAME>schto.txt
+<TEXT>
+
+
+AS FILED WITH THE SECURITIES AND EXCHANGE COMMISSION ON AUGUST 31, 2004
+
+                             INVESTMENT COMPANY ACT FILE NO. 811-07359
+
+   ---------------------------------------------------------------------------
+                          U.S. SECURITIES AND EXCHANGE
+                           COMMISSION WASHINGTON, D.C.
+                                      20549
+
+                                   SCHEDULE TO
+
+                          ISSUER TENDER OFFER STATEMENT
+         (Under Section 13(e)(1) of the Securities Exchange Act of 1934)
+                               (Amendment No. ___)
+
+                       HYPERION STRATEGIC BOND FUND, INC.
+                  (Name of Issuer and Person Filing Statement)
+
+                Shares of Common Stock, Par Value $.001 per share
+                         (Title of Class of Securities)
+
+                                       N/A
+                      (CUSIP Number of Class of Securities)
+
+                            JOHN H. DOLAN, PRESIDENT
+                       HYPERION STRATEGIC BOND FUND, INC.
+                   ONE LIBERTY PLAZA, 165 BROADWAY, 36th FLOOR
+                             NEW YORK, NY 10006-1404
+                                 1-800-HYPERION
+            (Name, Address and Telephone Number of Person Authorized
+   to Receive Notices and Communications on Behalf of Person Filing Statement)
+
+                                 With copies to:
+
+                                DAVID C. MAHAFFEY
+                            SULLIVAN & WORCESTER LLP
+                               1666 K STREET, N.W.
+                             WASHINGTON, D.C. 20006
+
+                            CALCULATION OF FILING FEE
+   ---------------------------------------------------------------------------
+
+   Transaction Valuation: $2,000,000*            Amount of Filing Fee: $400**
+
+   ---------------------------------------------------------------------------
+
+*    Calculated  as the  aggregate  maximum  purchase  price  to be paid for (i)
+     292,825  shares in the  offer,  based  upon the net  asset  value per share
+     ($6.83) on July 30, 2004.
+**   Calculated as 1/50th of 1% of the Transaction Valuation.
+
+| |  Check box if any part of the fee is offset as  provided  by Rule 0-11(a)(2)
+     and identify the filing with which the offsetting fee was previously  paid.
+     Identify the previous filing by  registration  statement number, or the
+     Form or Schedule and the date of its filing.
+
+     Amount Previously Paid:_______________    Filing Party:__________________
+     Form or Registration No.:_______________   Date Filed:___________________
+
+| |  Check the box if the filing relates solely to preliminary  communications
+     made before the commencement of a tender offer.
+
+     Check the appropriate boxes below to designate any transactions to which
+     the statement relates:
+| |     third-party tender offer subject to Rule 14d-1.
+|X|     issuer tender offer subject to Rule 13e-4.
+| |     going-private transaction subject to Rule 13e-3.
+| |     amendment to Schedule 13D under Rule 13d-2.
+
+
+Check the following box if the filing is a final amendment reporting the results
+of the tender offer: | |
+
+
+Item 1.  Summary Term Sheet.
+
+         Reference is made to the Summary Term Sheet of the Offer to Purchase
+that is attached as Exhibit (a)(1)(i) and is incorporated herein by reference.
+
+Item 2.  Subject Company Information.
+
+         (a) The name of the issuer is the Hyperion Strategic Bond Fund, Inc.
+The address and telephone number of its principal offices are One Liberty Plaza,
+165 Broadway, 36th Floor, New York, NY 10006-1404.
+
+         (b) The title of the securities being sought is shares of common stock,
+par value $.001 per share (the "Shares"), of the Fund. As of July 30, 2004 there
+were approximately 20,297,543.329 million Shares issued and outstanding.
+
+         (c) The Shares are not currently traded on an established secondary
+trading market.
+
+Item 3.  Identity and Background of Filing Person.
+
+         The Fund is tendering for its own shares.
+
+Item 4.  Terms of the Transaction.
+
+        (a)(1)(i)   The Fund is seeking  tenders for 292,825 shares of its
+                    common stock (the "Offer").
+
+              (ii)  For each Share tendered,  the security holder will receive a
+                    cash  amount  equal to the net asset  value  per Share  (the
+                    "NAV")  calculated  on the day the tender offer  terminates,
+                    upon the terms and  subject to the  conditions  set forth in
+                    the Offer to Purchase  dated  August 31, 2004 (the "Offer to
+                    Purchase").  A copy of the Offer to Purchase and the related
+                    Letter  of  Transmittal   is  attached   hereto  as  Exhibit
+                    (a)(1)(i) and Exhibit (a)(1)(ii), respectively. Reference is
+                    hereby made to the cover page and  Section 1 "Price;  Number
+                    of Shares" of the Offer to Purchase,  which are incorporated
+                    herein by reference.
+
+              (iii) The Offer is  scheduled  to expire on  September  30,  2004,
+                    unless extended.
+
+              (iv)  Not applicable.
+
+              (v)   Reference  is hereby  made to  Section  1 "Price;  Number of
+                    Shares"  and  Section  13  "Extension   of  Tender   Period;
+                    Termination; Amendments" of the Offer to Purchase, which are
+                    incorporated herein by reference.
+
+              (vi)  Reference is hereby made to Section 3 "Withdrawal Rights"
+                    of the Offer to Purchase, which is incorporated herein by
+                    reference.
+
+              (vii) Reference is hereby made to the Cover Page, Section 2
+                    "Procedure for Tendering Shares" and Section 3 "Withdrawal
+                    Rights" of the Offer to Purchase, which are incorporated
+                    herein by reference.
+
+             (viii) Reference is hereby made to Section 2 "Procedure for
+                    Tendering Shares" of the Offer to Purchase, which is
+                    incorporated herein by reference.
+
+             (ix)   Reference is hereby made to the cover page and Section 1
+                    "Price; Number of Shares" of the Offer to Purchase, which
+                    are incorporated herein by reference.
+
+             (x)    Reference is hereby made to Section 7 "Certain Effects of
+                    the Offer" of the Offer to Purchase, which is incorporated
+                    herein by reference.
+
+             (xi)   Reference is hereby made to Section 2 "Procedure for
+                    Tendering Shares" and Section 12 "Certain Federal Income Tax
+                    Consequences" of the Offer to Purchase, which are
+                    incorporated herein by reference.
+
+             (xii)  Reference is hereby made to Section 12 "Certain Federal
+                    Income Tax Consequences" of the Offer to Purchase, which is
+                    incorporated herein by reference.
+
+        (2)         Not applicable.
+
+    (b)             The Fund has been informed that no Directors, officers or
+                    affiliates of the Fund intend to tender Shares pursuant to
+                    the Offer.
+
+Item 5.  Past Contracts, Transactions, Negotiations and Agreements.
+
+         None.
+Item 6.  Purposes of the Transaction and Plans and Proposals.
+
+         (a)      Reference is hereby made to Section 6 "Purpose of the Offer"
+of the Offer to Purchase, which is incorporated herein by reference.
+
+         (b) Reference is hereby made to Section 7 "Certain Effects of the
+Offer" of the Offer to Purchase, which is incorporated herein by reference.
+
+         (c)(1) None.
+
+            (2) None.
+
+            (3) None.
+
+            (4) None.
+
+            (5) None.
+
+            (6) None.
+
+            (7) None.
+
+            (8) None.
+
+            (9) None.
+
+            (10) None.
+
+Item 7.  Source and Amount of Funds or Other Considerations.
+
+         (a) Reference is hereby made to Section 8 "Source and Amount of Funds"
+of the Offer to Purchase, which is incorporated herein by reference.
+
+         (b) None.
+
+         (d)(1) The Fund has sufficient cash to purchase the tendered shares;
+however the Fund may borrow all or part of the funds necessary to complete the
+tender offer by executing a 90 day reverse repurchase agreement between the Fund
+and Morgan Stanley and Company. The collateral for the agreement would consist
+of a portion of a Credit Suisse First Boston 2003-C5 A2 bond, and the rate of
+the agreement would be set at LIBOR plus 10 basis points.
+
+            (2) The Fund would continue to finance the reverse repurchase
+agreement, which is consistent with the Fund's investment strategy.
+
+Item 8.  Interest in Securities of the Subject Company.
+
+         (a) The Fund does not own any treasury shares. The following executive
+Officers and Directors currently own shares:
+
+             Thomas F. Doodian, Treasurer - 35.977 Shares
+             Julie S. Madnick, Portfolio Manager - 35.977 Shares
+             Joseph Tropeano, Secretary - 35.977 Shares
+             Jeffrey C. Williams, Portfolio Manager - 35.976 Shares
+
+         (b) On July 1, 2004, the Virginia Retirement System purchased
+4,016,064.257 Shares at a price of $7.47 per Share. The transaction was
+effected by wire in New York.
+
+Item 9. Persons/Assets Retained, Employed, Compensated or Used.
+
+        (a) None.
+
+        (b) None.
+
+Item 10.  Financial Statements.
+
+        (a)      The Fund's financial statements for the fiscal years ended
+July 31, 2002 and 2003, have been audited by Schwartz & Hofflich LLP whose
+reports, along with the Fund's financial statements, are included in the Fund's
+2002 and 2003 Annual Reports respectively, which are incorporated herein by
+reference. The unaudited financial information of the Fund for the six months
+ended January 31, 2004 is included in the Fund's 2004 Semi-Annual Report, which
+is incorporated herein by reference.
+
+         (b)      Not applicable.
+
+Item 11. Additional Information.
+
+         (a)      None.
+
+         (b)      The offer to Purchase is incorporated herein by reference in
+its entirety.
+
+Item 12. Exhibits.
+
+         (a)(1)(i)     Offer to Purchase.
+               (ii)    Form of Letter of Transmittal.
+               (iii)   Letter to Stockholders. (iv) Announcement.
+              (2)-(4)  Not applicable.
+              (5)(i)   Audited Financial Statements of the Fund for the fiscal
+                       year ended July 31, 2002.*
+                 (ii)  Audited Financial Statements of the Fund for the fiscal
+                       year ended July 31, 2003.**
+                 (iii) Unaudited Financial Statements of the Fund for the
+                       six-months ended January 31, 2004.***
+
+                 (iv) Consent of Schwartz & Hofflich LLP.
+
+*   Incorporated by reference to the Fund's Annual Report for the fiscal
+year ended July 31, 2002 on Form N-30D as filed with the Securities and
+Exchange Commission ("SEC") on September 30, 2002.
+
+** Incorporated by reference to the Fund's Annual Report for the fiscal year
+ended July 31, 2003 on form N-CSR as filed with the SEC on October 9, 2003.
+
+*** Incorporated by reference to the Fund's Semi-Annual Report for the six-
+months ended January 31, 2004 on Form N-CSRS as filed with the SEC on
+April 8, 2004.
+
+                 (b) Not applicable.
+
+                 (d) Not applicable.
+
+                 (g) Not applicable.
+
+                 (h) Not applicable.
+
+Item 13.  Information Required by Schedule 13E-3.
+
+          Not applicable.
+
+
+<PAGE>
+
+
+
+                                    SIGNATURE
+         After due inquiry and to the best of my knowledge and belief, I certify
+that the information set forth in this statement is true, complete and correct.
+
+                                            Hyperion Strategic Bond Fund, Inc.
+
+                                            By: /s/ John H. Dolan
+                                                ______________________________
+                                                John H. Dolan
+                                                President
+August 31, 2004
+
+
+
+<PAGE>
+
+
+
+                                  EXHIBIT INDEX
+
+Exhibit
+
+(a)(1)            (i)   Offer to Purchase.
+
+                  (ii)  Form of Letter of Transmittal.
+
+                  (iii) Letter to Stockholders.
+
+                  (iv)  Announcement.
+
+   (5)            (iv)  Consent of Schwartz & Hofflich LLP.
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.
+<SEQUENCE>2
+<FILENAME>exha1i.txt
+<TEXT>
+
+- -------------------------------------------------------------------------------
+
+
+                       HYPERION STRATEGIC BOND FUND, INC.
+                   One Liberty Plaza, 165 Broadway, 36th Floor
+                             New York, NY 10006-1404
+
+
+                       OFFER TO PURCHASE FOR CASH 292,825
+                      OF ITS ISSUED AND OUTSTANDING SHARES
+                          AT NET ASSET VALUE PER SHARE
+
+
+                               SUMMARY TERM SHEET
+
+THIS SUMMARY HIGHLIGHTS CERTAIN INFORMATION IN THIS OFFER TO PURCHASE. TO
+UNDERSTAND THE OFFER FULLY AND FOR A MORE COMPLETE DESCRIPTION OF THE TERMS OF
+THE OFFER, YOU SHOULD CAREFULLY READ THIS ENTIRE OFFER TO PURCHASE AND THE
+RELATED LETTER OF TRANSMITTAL FOR THE FUND. WE HAVE INCLUDED SECTION REFERENCES
+TO DIRECT YOU TO A MORE COMPLETE DESCRIPTION OF THE TOPICS IN THIS SUMMARY.
+
+     o    WHAT  SECURITIES IS HYPERION  STRATEGIC  BOND FUND,  INC.  OFFERING TO
+          PURCHASE?  Hyperion Strategic Bond Fund, Inc. (the "Fund") is offering
+          to purchase up to 292,825 Shares of its common stock  ("Shares")  that
+          may be held by you and other stockholders. If more than 292,825 Shares
+          are  surrendered  (or  "tendered") by stockholders in response to this
+          Offer, the Fund expects either to extend its Offer period and increase
+          the number of Shares it is offering  to  purchase  or to purchase  the
+          Shares tendered on a pro rata basis. The Offer is not conditioned upon
+          the  tender of any  minimum  number of Shares.  See  Section 1 "Price;
+          Number of Shares."
+
+     o    HOW DO I TENDER MY SHARES?  See  Section 2  "Procedure  for  Tendering
+          Shares."
+
+          If  your  Shares  are  registered  in the  name  of  your  broker,
+          dealer, commercial  bank,  trust  company or other  nominee, you must
+          contact the entity and request that your Shares be tendered to the
+          Fund.
+
+          If you wish to tender  your  Shares  and your  respective  Shares  are
+          registered  in your name,  you may send your a properly  completed and
+          executed Letter of Transmittal and any additional  documents  required
+          by the Letter of Transmittal to the Transfer Agent. The Transfer Agent
+          must receive these documents prior to the scheduled  expiration of the
+          Offer  (currently  Thursday,  September 30, 2004 at 4:00 p.m.  Eastern
+          time).
+
+     o    HOW MUCH IS THE FUND  OFFERING TO PAY ME FOR MY SHARES?  The Fund will
+          pay you cash in an amount equal to the Fund's net asset value  ("NAV")
+          per Share as of the close of business  of the New York Stock  Exchange
+          on the expiration date (currently Thursday, September 30, 2004). As of
+          July 30, 2004,  the Fund's NAV,  which  fluctuates on a monthly basis,
+          was $6.83 per Share. See Section 1 "Price; Number of Shares."
+
+     o    WILL I HAVE TO PAY ANY FEES OR COMMISSION  IF I TENDER MY SHARES?  The
+          Fund will not  charge  you a fee if you  tender  your  Shares.  If you
+          tender your Shares  through a broker,  dealer or other  nominee,  that
+          broker,  dealer or other  nominee may charge you a fee for  processing
+          the transaction on your behalf. See Section 2 "Procedure for Tendering
+          Shares."
+
+     o    WILL THERE BE ANY TAX  CONSEQUENCES  TO ME IF I TENDER MY  SHARES?  If
+          your tendered  Shares are accepted,  it will be a taxable  transaction
+          either  in  the  form  of  a  "sale  or  exchange"  or  under  certain
+          circumstances  as a  "dividend."  You should  consult your tax advisor
+          regarding the tax  consequences  to you of tendering your Shares.  See
+          Section 12 "Certain Federal Income Tax Consequences."
+
+     o    WHEN WILL THE OFFER EXPIRE?  HOW WILL I KNOW IF THE OFFERING PERIOD IS
+          EXTENDED OR IF THE OFFER IS  TERMINATED?  The Offer expires  Thursday,
+          September 30, 2004 at 4:00 p.m. Eastern Time, unless the Fund notifies
+          you that it is either  extending or terminating its Offer. If the Fund
+          extends its Offer period, the Fund's public  announcement will be made
+          not later than 9:00 a.m. on the next business day after the previously
+          scheduled expiration date. See Section 1 "Price; Number of Shares" and
+          Section 13 "Extension of Tender Period; Termination; Amendment."
+
+     o    MAY I WITHDRAW MY TENDERED  SHARES?  You may  withdraw  your  tendered
+          Shares  at any  time  prior  to the  expiration  date,  which,  unless
+          extended,  is  currently  Thursday,  September  30,  2004 at 4:00 p.m.
+          Eastern  Time.  Additionally,  if the Fund has not yet  accepted  your
+          tendered Shares for payment,  you may withdraw your tendered Shares at
+          any time after October 28, 2004. To withdraw your tendered Shares, you
+          should contact your financial advisor or other nominee,  or you should
+          submit proper written notice to the Fund's Transfer Agent. See Section
+          3 "Withdrawal Rights."
+
+     o    DOES THE FUND HAVE THE  FINANCIAL  RESOURCES  TO PAY ME FOR MY SHARES?
+          The Fund expects to have adequate money to finance the purchase of its
+          tendered Shares. See Section 8 "Source and Amount of Funds."
+
+     o    WHY IS THE FUND  MAKING  AN OFFER TO  PURCHASE  SHARES  OF ITS  COMMON
+          STOCK? No established  secondary  trading market  currently exists for
+          the Fund's Shares. As a result,  the Fund's Board of Directors decided
+          to provide  liquidity for  stockholders  by making an Offer.  The Fund
+          cannot assure you that you will be provided with sufficient liquidity,
+          or that the Fund  will  make a  similar  tender  Offer in the  future.
+          Neither the Fund nor its Board of Directors  makes any  recommendation
+          as to whether  or not you should  tender  you  Shares.  See  Section 6
+          "Purpose of the Offer."
+
+     o    WHAT ARE THE MOST  SIGNIFICANT  CONDITIONS TO THE OFFER?  The Offer is
+          not conditioned  upon the tender of any minimum number of Shares.  The
+          Fund is not required to accept or pay for any Shares  tendered.  Under
+          certain  circumstances,  the Fund may  terminate or amend its Offer or
+          postpone  the  acceptance  of the Shares for  payment.  See  Section 5
+          "Certain Conditions of the Offer."
+
+     o    IF I DECIDE  NOT TO TENDER  MY  SHARES,  HOW WILL THE OFFER  AFFECT MY
+          SHARES?  If you do not  tender  your  Shares,  you may be  subject  to
+          certain risks  resulting  from the Fund reducing its assets to pay for
+          tendered  Shares.  These risks  include  increased  volatility  in the
+          Fund's NAV and higher  expenses.  These risks should be reduced to the
+          extent that the Fund sells new Shares.  See Section 7 "Certain Effects
+          of the Offer."
+
+     o    WHO SHOULD I CALL IF I NEED MORE  INFORMATION?  Questions and requests
+          for  assistance  may be  directed to your  financial  advisor or other
+          nominee,  or to the Transfer Agent at the address and telephone number
+          set forth  below.  Requests  for  additional  copies of this  Offer to
+          Purchase  and the  Letter of  Transmittal  should be  directed  to the
+          transfer agent as set forth below.
+
+
+                                   Transfer Agent:
+                                       American Stock Transfer & Trust
+                                       59 Maiden Lane
+                                       New York, NY  10038
+                                       Attn: Hyperion Strategic Bond Fund, Inc.
+                                       (877) 248-6417
+
+
+
+
+<PAGE>
+
+
+
+                       HYPERION STRATEGIC BOND FUND, INC.
+                   One Liberty Plaza, 165 Broadway, 36th Floor
+                             New York, NY 10006-1404
+
+
+                       OFFER TO PURCHASE FOR CASH 292,825
+                      OF ITS ISSUED AND OUTSTANDING SHARES
+                          AT NET ASSET VALUE PER SHARE
+
+
+         THE EXPIRATION DATE AND THE WITHDRAWAL DEADLINE ARE 4:00 P.M.,
+         EASTERN TIME, ON THURSDAY, SEPTEMBER 30, 2004, UNLESS EXTENDED.
+
+
+
+To the Holders of Shares of
+HYPERION STRATEGIC BOND FUND, INC.:
+
+     Hyperion  Strategic Bond Fund, Inc. (the "Fund") is offering to purchase up
+to 292,825 of its issued and outstanding shares of common stock, par value $.001
+per share (the  "Shares"),  for cash at a price  equal to their net asset  value
+("NAV") as of the close of business on the New York Stock  Exchange on Thursday,
+September 30, 2004, the Expiration  Date,  unless  extended,  upon the terms and
+conditions  set forth in this Offer to Purchase  (the  "Offer")  and the related
+Letter of  Transmittal.  The Shares are not currently  traded on an  established
+secondary market. The NAV on July 30, 2004 was $6.83 per Share.
+
+     If more  than  292,825  Shares of the Fund are duly  tendered  prior to the
+expiration  of  the  Offer,  assuming  no  changes  in  the  factors  originally
+considered  by the Fund's  Board of  Directors  when it  determined  to make the
+Offer,  the Fund will  either (1) extend its Offer  period,  if  necessary,  and
+increase the number of Shares that the Fund is offering to purchase to an amount
+which it believes will be sufficient to accommodate the excess Shares  tendered,
+as well as any Shares tendered during the extended Offer period, or (2) purchase
+the Shares tendered on a pro rata basis.
+
+         THE FUND'S OFFER IS BEING MADE TO ALL STOCKHOLDERS OF THE FUND
+    AND IS NOT CONDITIONED UPON ANY MINIMUM NUMBER OF SHARES BEING TENDERED.
+
+                                    IMPORTANT
+
+     If you  desire to tender  all or any  portion  of your  Shares,  you should
+either (1) request your broker, dealer,  commercial bank, trust company or other
+nominee  to  effect  the  transaction  for you,  or (2) if you own  your  Shares
+directly, complete and sign the Fund's Letter of Transmittal and mail or deliver
+it along with any Share  certificate(s)  and any other required documents to the
+Fund's  Transfer  Agent.  If your Shares are registered in the name of a broker,
+dealer,  commercial bank, trust company or other nominee,  you must contact such
+broker, dealer, commercial bank, trust company or other nominee if you desire to
+tender your Shares.
+
+     NEITHER THE FUND NOR ITS BOARD OF DIRECTORS,  MAKES ANY  RECOMMENDATION  TO
+ANY STOCKHOLDER AS TO WHETHER TO TENDER OR REFRAIN FROM TENDERING  SHARES.  EACH
+STOCKHOLDER MUST MAKE HIS OR HER OWN DECISION  WHETHER TO TENDER SHARES,  AND IF
+SO, HOW MAY SHARES TO TENDER.
+
+     NO PERSON HAS BEEN AUTHORIZED TO MAKE ANY  RECOMMENDATION  ON BEHALF OF THE
+FUND AS TO WHETHER  STOCKHOLDERS  SHOULD TENDER SHARES PURSUANT TO THE OFFER. NO
+PERSON  HAS  BEEN   AUTHORIZED   TO  GIVE  ANY   INFORMATION   OR  TO  MAKE  ANY
+REPRESENTATIONS  IN CONNECTION WITH THE OFFER OTHER THAN THOSE CONTAINED  HEREIN
+OR IN THE FUND'S LETTER OF TRANSMITTAL.  IF GIVEN OR MADE,  SUCH  RECOMMENDATION
+AND SUCH INFORMATION AND REPRESENTATIONS  MUST NOT BE RELIED UPON AS HAVING BEEN
+AUTHORIZED BY THE FUND. THIS TRANSACTION HAS NOT BEEN APPROVED OR DISAPPROVED BY
+THE  SECURITIES AND EXCHANGE  COMMISSION NOR HAS THE COMMISSION  PASSED UPON THE
+FAIRNESS OR MERITS OF SUCH  TRANSACTION NOR UPON THE ACCURACY OR ADEQUACY OF THE
+INFORMATION  CONTAINED IN THIS DOCUMENT.  ANY  REPRESENTATION  TO THE COMPANY IS
+UNLAWFUL.
+
+     Questions  and requests for  assistance  may be directed to your  financial
+advisor or other nominee,  or to the Transfer Agent at the address and telephone
+number set forth below. Requests for additional copies of this Offer to Purchase
+and the Fund's Letter of Transmittal should be directed to the Transfer Agent as
+set forth below.
+
+
+August 31, 2004                     HYPERION STRATEGIC BOND FUND, INC.
+
+
+                                    Transfer Agent:
+                                       American Stock and Transfer
+                                       59 Maiden Lane
+                                       New York, NY  10038
+                                       Attn: Hyperion Strategic Bond Fund, Inc.
+                                       (877) 248-6417
+
+
+
+
+
+
+<page>
+
+
+
+- -------------------------------------------------------------------------------
+
+
+
+                                TABLE OF CONTENTS
+
+Section                                                                    Page
+
+  1.   Price; Number of Shares                                              6
+  2.   Procedure for Tendering Shares                                       7
+  3.   Withdrawal Rights                                                    8
+  4.   Payment for Shares                                                   9
+  5.   Certain Conditions of the Offer                                      9
+  6.   Purpose of the Offer                                                10
+  7.   Certain Effects of the Offer                                        10
+  8.   Source and Amount of Funds                                          10
+  9.   Financial Information                                               10
+  10.  Certain Information About the Fund                                  11
+  11.  Additional Information                                              11
+  12.  Certain Federal Income Tax Consequences                             11
+  13.  Extension of Tender Period; Termination; Amendments                 13
+  14.  Miscellaneous                                                       13
+
+- -------------------------------------------------------------------------------
+
+
+     1.  Price;  Number of Shares.  The Fund will  purchase up to 292,825 of its
+issued and outstanding Shares which are tendered and not withdrawn prior to 4:00
+p.m.,  Eastern time, on September 30, 2004 (such time and date being hereinafter
+called the "Initial  Expiration  Date")  unless it  determines to accept none of
+them. The Fund reserves the right to extend its Offer. See Section 13 "Extension
+of Tender Period; Termination;  Amendments." The later of the Initial Expiration
+Date or the latest time and date to which an Offer is  extended  is  hereinafter
+called the  "Expiration  Date." The purchase  price of the Fund's Shares will be
+its NAV as of the close of the New York Stock Exchange on the Expiration Date.
+
+     The Fund's Offer is being made to all  stockholders  of the Fund and is not
+conditioned  upon any  minimum  number of Shares  being  tendered.  If more than
+292,825 Shares are duly tendered prior to the expiration of the Offer,  assuming
+no changes in the factors originally considered by the Fund's Board of Directors
+when it determined to make the Offer,  the Fund will either (1) extend its Offer
+period,  if  necessary,  and  increase  the  number of  Shares  that the Fund is
+offering to  purchase  to an amount  which it  believes  will be  sufficient  to
+accommodate the excess Shares tendered as well as any Shares tendered during the
+extended Offer period, or (2) purchase the Shares on a pro rata basis.
+
+
+<page>
+
+
+     As of June 30, 2004 there were approximately  20,297,543.329 million Shares
+issued and outstanding and there were 111 holders of record of Shares.  The Fund
+has been informed that none of the Directors, officers or affiliates of the Fund
+intends to tender any Shares  pursuant to the Offer.  The Fund's  Shares are not
+currently traded on any established secondary market.
+
+     2. Procedure for Tendering  Shares.  In order for you to tender any of your
+Shares, you may either: (a) request your broker, dealer,  commercial bank, trust
+company  or other  nominee to effect the  transaction  for you,  in which case a
+Letter of  Transmittal  is not required,  or (b) if the Shares are registered in
+your name,  send the  Transfer  Agent,  at the  address set forth on page 5, any
+certificate(s)  for such Shares,  a properly  completed  and executed  Letter of
+Transmittal  for the Fund  and any  other  required  documents.  Please  contact
+Jennifer  Donovan at (877)  248-6417 for any  additional  document  which may be
+required.
+
+A. Procedures for Beneficial Owners Holding Shares Through Brokers or Nominees.
+
+     If your Shares are registered in the name of a broker,  dealer,  commercial
+bank,  trust  company or other  nominee,  you must contact such broker,  dealer,
+commercial  bank,  trust  company or other  nominee if you desire to tender your
+Shares. You should contact such broker,  dealer,  commercial bank, trust company
+or other nominee in  sufficient  time to permit  notification  of your desire to
+tender  to  reach  the  Transfer  Agent by the  Expiration  Date.  No  brokerage
+commission will be charged on the purchase of Shares by the Fund pursuant to the
+Offer.  However,  a  broker  or  dealer  may  charge  a fee for  processing  the
+transaction on your behalf.
+
+B.  Procedures for Registered Stockholders.
+
+     If you will be mailing or delivering a Letter of Transmittal  and any other
+required  documents to the Transfer  Agent in order to tender your Shares,  they
+must be received on or prior to the Expiration Date by the Transfer Agent at its
+address set forth on page 5 of this Offer to Purchase.
+
+     Signature on a Letter of Transmittal MUST be guaranteed by a member firm of
+a registered national securities exchange, or a commercial bank or trust company
+having an  office,  branch or agency in the United  States,  the  existence  and
+validity  of which may be  verified  by the  Transfer  Agent  through the use of
+industry publications. Notarized signatures are not sufficient.
+
+     Payment for Shares  tendered and purchased  will be made only after receipt
+by the Transfer Agent on or before the Expiration  Date of a properly  completed
+and duly executed  Letter of Transmittal  and any other required  documents.  If
+your Shares are  evidenced  by  certificates,  those  certificates  also must be
+received by the Transfer Agent on or prior to the Expiration Date.
+
+     The method of delivery of any documents, including certificates for shares,
+is at the election and risk of the party tendering the shares.  If documents are
+sent by mail,  it is  recommended  that they sent by registered  mail,  properly
+insured, with return receipt requested.
+
+C.  Determinations of Validity.
+
+     All  questions as to the validity,  form,  eligibility  (including  time of
+receipt) and  acceptance  of tenders will be determined by the Fund, in its sole
+discretion,  whose determination  shall be final and binding.  The Fund reserves
+the absolute  right to reject any or all tenders  determined  by it not to be in
+appropriate form or the acceptance of or payment for which would, in the opinion
+of counsel for the Fund, be unlawful.  The Fund also reserves the absolute right
+to waive any of the  conditions  of the Offer or any defect in any  tender  with
+respect to any particular Shares or any particular  stockholder,  and the Fund's
+interpretations  of the terms  and  conditions  of its  Offer  will be final and
+binding. Unless waived, any defects or irregularities in connection with tenders
+must be cured within such times as the Fund shall determine. Tenders will not be
+deemed to have been made until the defects or irregularities  have been cured or
+waived.  Neither the Fund,  the  administrator  for the Fund,  Hyperion  Capital
+Management,  Inc. ("HCM"), nor the Transfer Agent, nor any other person shall be
+obligated to give notice of any defects or irregularities, nor shall any of them
+incur any liability for failure to give such notice.
+
+D.  Tender Constitutes an Agreement.
+
+     A tender of Shares  made  pursuant to any one of the  procedures  set forth
+above will  constitute an agreement  between the tendering  stockholder  and the
+Fund  in  accordance  with  the  terms  and  subject  to the  conditions  of the
+applicable Offer.
+
+     3. Withdrawal Rights. You may withdraw Shares tendered at any time prior to
+the Expiration Date and, if the Shares have not been accepted for payment by the
+Fund, at any time after October 28, 2004.
+
+     Stockholders  whose  accounts  are  maintained   through  broker,   dealer,
+commercial  bank,  trust  company,  or other nominee  should notify such nominee
+prior  to the  Expiration  Date.  Stockholders  whose  accounts  are  maintained
+directly through the Transfer Agent should submit written notice to the Transfer
+Agent.
+
+     To be effective,  any notice of withdrawal  must be timely  received by the
+Transfer Agent at the address set forth on page 5 of this Offer to Purchase. Any
+notice of withdrawal  must specify the name of the person  having  deposited the
+Shares to be  withdrawn,  the  number of Shares  to be  withdrawn,  and,  if any
+certificate representing such Shares have been delivered or otherwise identified
+to the Transfer  Agent,  the name of the registered  holder(s) of such Shares as
+set forth in such certificates and the number of Shares to be withdrawn.  If any
+certificates  have been  delivered to the  Transfer  Agent,  then,  prior to the
+release of such certificate,  you must also submit the certificate numbers shown
+on the particular  certificates  evidencing such Shares and the signature on the
+notice of the  withdrawal  must be  guaranteed by an eligible  institution.  All
+questions as to the form and validity  (including time of receipt) of notices of
+withdrawal  will  be  determined  by the  Fund  in its  sole  discretion,  whose
+determination  shall be final and binding.  Shares properly  withdrawn shall not
+thereafter  be  deemed  to be  tendered  for  purposes  of the  Offer.  However,
+withdrawn Shares may be tendered by following one of the procedures described in
+Section 2 "Procedure for Tendering Shares."
+
+     4. Payment for Shares.  For purposes of its Offer,  the Fund will be deemed
+to have  accepted  for  payment  (and  thereby  purchased)  its Shares  that are
+tendered as, if and when it give oral or written notice to the Transfer Agent of
+its election to purchase such Shares.
+
+     Payment for Shares will be made promptly by the Transfer Agent to tendering
+stockholders as directed by the Fund. Any  certificates for Shares not purchased
+(see Section 1 "Price;  Number of Shares" and Section 5 "Certain  Conditions  of
+the Offer"),  or for Shares not tendered  included in certificates  forwarded to
+the  Transfer  Agent,  will be  returned  promptly  following  the  termination,
+expiration or withdrawal of the relevant Offer, without expense to the tendering
+stockholder.
+
+     The Fund will pay all transfer taxes, if any, payable on the transfer to it
+of its Shares purchased pursuant to its Offer. If any tendered  certificates are
+registered in the name of any person other than the person signing the Letter of
+Transmittal,  the  amount of any such  transfer  taxes  (whether  imposed on the
+registered  holder or such other  person)  payable on account of the transfer to
+such  person  will be  deducted  from the  purchase  price  unless  satisfactory
+evidence of the payment of such taxes, or exemption therefrom, is submitted. The
+Fund will not pay any interest on the purchase price under any circumstances.
+
+     5.  Certain  Conditions  of the Offer.  The Fund shall not be  required  to
+accept for payment or pay for any of its Shares  tendered,  and may terminate or
+amend its Offer or may postpone the  acceptance  for payment of, or payment for,
+its Shares tendered,  if: (1) such purchases would impair the Fund's status as a
+regulated investment company under the Internal Revenue Code of 1986, as amended
+(the "Code")  (which would cause the Fund's  income to be taxed at the corporate
+level in addition to the taxation of stockholders who receive dividends from the
+Fund);  (2) the Fund would not be able to liquidate  portfolio  securities  in a
+manner which is orderly and consistent with the Fund's investment  objective and
+policies in order to enable the Fund to purchase Shares tendered pursuant to the
+Offer;  or (3)  there is, in the  Board of  Director's  judgment,  any (a) legal
+action or proceeding instituted or threatened challenging the Offer or otherwise
+materially adversely affecting the Fund, (b) declaration of a banking moratorium
+by Federal or state  authorities  or any  suspension  of payment by banks in the
+United States or New York State,  which is material to the Fund,  (c) limitation
+imposed by Federal or state  authorities  on the  extension of credit by lending
+institutions,  (d) commencement of war, armed hostilities,  acts of terrorism or
+other  international or national calamity  directly or indirectly  involving the
+United  States,  which is material to the Fund,  or (e) other event or condition
+which would have a material  adverse effect on the Fund or its  stockholders  if
+Shares tendered pursuant to the Offer were purchased.
+
+     If the Fund determines to amend its Offer or to postpone the acceptance for
+payment of or payment for Shares  tendered,  it will,  to the extent  necessary,
+extend the period of time during which the Offer is open. Moreover, in the event
+any of the  foregoing  conditions  are modified or waived in whole or in part at
+any time, the Fund will promptly make a public  announcement  of such waiver and
+may,  depending on the  materiality of the  modification  or waiver,  extend the
+Offer  period.  See  Section  13  "Extension  of  Tender  Period;   Termination;
+Amendments."
+
+     6. Purpose of the Offer.  Currently  there is no  secondary  market for the
+Fund's Shares.  The Fund's Board of Directors has determined that it would be in
+the best  interest  of  stockholders  for the Fund to take  action to attempt to
+provide liquidity to stockholders.  The Fund will not at any time be required to
+make tender offers in the future.
+
+     7. Certain  Effects of the Offer.  The  purchase of Shares  pursuant to the
+Fund's Offer will have the effect of increasing  the  proportionate  interest in
+the Fund of  stockholders  who do not tender  their  Shares.  If you retain your
+Shares, however, you will be subject to any increased risks that may result from
+the  reduction in the Fund's  aggregate  assets  resulting  from payment for the
+Shares,  including,  for example,  the potential for greater  volatility  due to
+decreased  diversification and higher expenses.  However, the Fund believes that
+those  risks will be  reduced  to the  extent  new  Shares are sold.  All Shares
+purchased by the Fund  pursuant to its Offer will be retired by the Fund's Board
+of Directors.
+
+     8. Source and Amount of Funds.  The price to be paid by the Fund for Shares
+tendered  in its Offer  will equal its NAV as of the close of the New York Stock
+Exchange  on the  Expiration  Date.  Based  on the NAV on  July  30,  2004,  the
+aggregate  purchase  price if (i) 292,825  Shares are  tendered and accepted for
+payment will be approximately  $2,000,000 million. The Fund anticipates that the
+purchase  price for shares  acquired  by the Fund  pursuant  to its Offer may be
+derived by the Fund from (i) cash on hand,  (ii) the  proceeds  from the sale of
+cash  equivalents  held by the Fund,  (iii) the  proceeds of sales of  portfolio
+investments held by the Fund, and /or (iv) borrowings by the Fund.
+
+     The Fund has sufficient cash to purchase the tendered  shares;  however the
+Fund may borrow all or part of the funds  necessary to complete the tender offer
+by executing a 90 day reverse  repurchase  agreement between the Fund and Morgan
+Stanley and Company. The collateral for the agreement would consist of a portion
+of a Credit Suisse First Boston  2003-C5 A2 bond,  and the rate of the agreement
+would be set at LIBOR plus 10 basis points.  The Fund would  continue to finance
+the reverse repurchase agreement, which is consistent with the Fund's investment
+strategy.
+
+     Under  the 1940  Act,  the  Fund  may not  declare  any  dividend  or other
+distribution  upon any class of its capital stock,  or purchase any such capital
+stock,  unless  the  aggregate  indebtedness  of the Fund has at the time of the
+declaration  of any such  dividend  or  distribution  or at the time of any such
+purchase  an asset  coverage of at least 300% for the Fund after  deducting  the
+amount of such dividend,  distribution,  or purchase  price, as the case may be.
+Also,  certain  types of  borrowings  by the Fund may  result in the Fund  being
+subject to  covenants  in credit  agreements,  including  those  relating to the
+Fund's  asset  coverage  and  portfolio   composition   requirements  and  those
+restricting the Fund's payment of dividends and distributions.
+
+     9. Financial Information.  Comprehensive  financial information is included
+in the  Fund's  financial  statements,  copies of which have been filed with the
+Securities and Exchange  Commission (the "SEC") and are  incorporated  herein by
+reference.  You may request a copy the Fund's Annual  Reports or the Fund's 2004
+Semi-Annual Report at no charge by calling  1-800-HYPERION between 8:30 a.m. and
+5:30 p.m., Eastern time, on any business day.
+
+
+     10. Certain Information About the Fund.
+
+     The Fund  was  incorporated  under  the laws of the  State of  Maryland  on
+September 12, 1995 and is a non-diversified,  closed-end,  management investment
+company registered under the 1940 Act.
+
+     The  Fund's  investment  objective  is to  provide  high  total  return  by
+investing, under normal circumstances,  at least 65% of its assets in securities
+backed by  interests  in real estate.  The  investment  objective of the Fund is
+fundamental and may not be changed without  approval by the holders of more than
+75% of the shares of the Fund's common stock. No assurance can be given that the
+Fund's  objective  will be  achieved.  Like all  investors  in interest  bearing
+securities,  the Fund is  exposed  to the risk  that the  prices  of  individual
+securities held by the portfolio may fluctuate, in some cases significantly,  in
+response  to changes in credit  conditions  and  prevailing  levels of  interest
+rates.  At least 80% of the Fund's  assets are invested in debt.  This policy is
+not  fundamental  and can be  changed  with at least  60 days  prior  notice  to
+shareholders.
+
+     There have not been any transactions  involving the Fund's Shares that were
+effected  during the past 60 business days by any executive  officer or Director
+of the Fund, by any person  controlling  the Fund,  by any executive  officer or
+director  of  any  corporation  ultimately  in  control  of the  Fund  or by any
+associate or subsidiary of any of the foregoing  including any executive officer
+or director of any such  subsidiary.  On July 1, 2004,  the Virginia  Retirement
+System  purchased  4,016,064.257  Shares  from the Fund at a price of $7.47  per
+Share.
+
+     The  principal  executive  offices of the Fund are  located at One  Liberty
+Plaza, 165 Broadway, 36th Floor, New York, NY 10006-1404.
+
+     11.  Additional  Information.  The Fund has  filed an issuer  tender  offer
+statement  on  Schedule  TO  with  the SEC  which  includes  certain  additional
+information  relating to its Offer. Such material may be inspected and copied at
+prescribed  rates at the SEC's public  reference  facilities at Judiciary Plaza,
+450 Fifth Street, N.W., Washington, D.C. 20549. Copies of such material may also
+be obtained by mail at prescribed  rates from the Public Reference Branch of the
+SEC at 450 Fifth Street,  N.W.,  Washington,  DC 20549.  The SEC maintains a web
+site  (http://www.sec.gov)  that  contains  the  Fund's  Schedule  TO and  other
+information regarding the Fund.
+
+     12. Certain Federal Income Tax Consequences.  The following discussion is a
+general  summary  of the  Federal  income tax  consequences  of a sale of Shares
+pursuant to the Offer.  You should  consult  your own tax advisor for a complete
+description of the tax  consequences  to you of a sale of Shares pursuant to the
+Offer.
+
+     The sale of Shares pursuant to the Offer will be a taxable  transaction for
+Federal  income tax  purposes,  either as a "sale or exchange," or under certain
+circumstances, as a "dividend." In general, the transaction should be treated as
+a sale or exchange of the Shares under  Section 302 of the Code,  if the receipt
+of cash (a) is "substantially disproportionate" with respect to the stockholder,
+(b) results in a "complete redemption" of the stockholder's  interest, or (c) is
+"not essentially  equivalent to a dividend" with respect to the  stockholder.  A
+"substantially  disproportionate" distribution generally requires a reduction of
+at least 20% in the stockholder's  proportionate  interest in the Fund after all
+shares  are  tendered.  A  "complete  redemption"  of a  stockholder's  interest
+generally  requires that all Shares of the Fund directly  owned or attributed to
+such  stockholder  under Section 318 of the Code be disposed of. A  distribution
+"not essentially  equivalent to a dividend" requires that there be a "meaningful
+reduction" in the  stockholder's  interest in the Fund, which should be the case
+if the stockholder has a minimal interest in the Fund, exercises no control over
+Fund affairs and suffers a reduction in his proportionate interest in the Fund.
+
+     If the sale of your  Shares  meets  any of these  three  tests for "sale or
+exchange"  treatment,  you will  recognize  gain or loss equal to the difference
+between the amount of cash  received  pursuant to the Offer and the adjusted tax
+basis of the Shares  sold.  Such gain or loss will be a capital  gain or loss if
+the Shares sold have been held by you as a capital  asset.  In general,  capital
+gain or loss with respect to Shares sold will be long-term  capital gain or loss
+if the holding period for such Shares is more than one year. The maximum capital
+gains  rate  currently  applicable  to such a sale of  Shares  would  be 15% for
+individuals.
+
+     If none of the Code  Section 302 tests  described  above is met, you may be
+treated as having received,  in whole or in part, a dividend,  return of capital
+or capital  gain,  depending on (i) whether  there are  sufficient  earnings and
+profits to support a dividend  and (ii) your tax basis in the  relevant  Shares.
+The tax basis in the  Shares  tendered  to the Fund will be  transferred  to any
+remaining  Shares held by you in the Fund.  In  addition,  if the sale of Shares
+pursuant to the Offer is treated as a "dividend" to a tendering  stockholder,  a
+constructive  dividend under Code Section  305(c) may result to a  non-tendering
+stockholder whose proportionate  interest in the earnings and assets of the Fund
+has been increased as a result of such tender.
+
+     Accordingly,  the differentiation between "dividend" and "sale or exchange"
+treatment  can be important  with respect to the amount and  character of income
+that tendering  stockholders are deemed to receive. While the marginal tax rates
+for dividends and capital gains remain the same for corporate stockholders,  the
+top income tax rate applicable to ordinary income  dividends of the Fund paid to
+individual  shareholders currently exceeds the maximum tax rate on capital gains
+(15%).
+
+     The gross  proceeds  paid to a stockholder  or other payee  pursuant to the
+Offer will be subject to a withholding  tax unless either:  (a) the  stockholder
+has provided the stockholder's  taxpayer  identification  number/social security
+number, and certifies under penalty of perjury: (i) that such number is correct,
+and (ii) either that (A) the stockholder is exempt from backup withholding,  (B)
+the stockholder is not otherwise subject to backup  withholding as a result of a
+failure to report all interest or dividends, or (C) the Internal Revenue Service
+has notified the stockholder that the stockholder is no longer subject to backup
+withholding;  or (b) an  exception  applies  under  applicable  law and Treasury
+regulations.  Foreign stockholders may be required to provide the Transfer Agent
+with a completed  Form W-8BEN,  available from the Transfer  Agent,  in order to
+avoid backup withholding.
+
+     Unless  a  reduced  rate  of  withholding  or a  withholding  exemption  is
+available  under an applicable  tax treaty,  a stockholder  who is a nonresident
+alien or a foreign entity may be subject to a 30% United States  withholding tax
+on the gross proceeds received by such stockholder,  if the proceeds are treated
+as a "dividend" under the rules described  above.  Foreign  stockholders  should
+consult their tax advisers regarding application of these withholding rules.
+
+     13. Extension of Tender Period; Termination;  Amendments. The Fund reserves
+the  right,  at any time and from  time to time,  to extend  the  period of time
+during  which its Offer is  pending  by making  an  announcement  thereof.  Such
+announcement  will be issued no later than 9:00 a.m.,  Eastern time, on the next
+business day after the previously  scheduled  Expiration  Date and will disclose
+the approximate number of relevant Shares tendered as of that date. In the event
+that the Fund elects to extend its Offer  period,  the NAV for the Fund's Shares
+tendered  will be  determined  as of the close of business of the New York Stock
+Exchange on the Expiration  Date, as extended.  During any such  extension,  all
+Shares previously tendered and not purchased or withdrawn will remain subject to
+the Fund's Offer. The Fund also reserves the right, at any time and from time to
+time up to and including the Expiration Date, to (a) terminate its Offer and not
+to  purchase  or pay for any  Shares,  and (b) amend  its Offer in any  respect,
+including but not limited to,  amending the number of its Shares  subject to its
+Offer. If a material change is made to the terms of the relevant Offer, the Fund
+will promptly make a public  announcement of any such change.  Without  limiting
+the  manner in which the Fund may  choose  to make a public  announcement  of an
+extension,  termination  or  amendment  of the  Offer,  except  as  provided  by
+applicable law (including Rule 13e-4(e)(2) under the Securities  Exchange Act of
+1934),  the Fund shall have no  obligation  to publish,  advertise  or otherwise
+communicate any such public announcement, other than by making a press release.
+
+     14.  Miscellaneous.  The Offer is not being  made to,  nor will  tenders be
+accepted  from,  stockholders  in any  jurisdiction  in which  each Offer or its
+acceptance would not comply with the securities laws of such  jurisdiction.  The
+Fund is not aware of any  jurisdiction  in which its Offer or  tenders  pursuant
+thereto would not be in compliance with the laws of such jurisdiction.  However,
+the Fund  reserves  the  right to  exclude  stockholders  from its  Offer in any
+jurisdiction in which it is asserted that the Offer cannot lawfully be made. The
+Fund believes such exclusion is permissible under applicable tender offer rules,
+provided  the Fund makes a good faith effort to comply with any state law deemed
+applicable to its Offer.
+
+
+                                             HYPERION STRATEGIC BOND FUND, INC.
+
+
+
+
+August 31, 2004
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.
+<SEQUENCE>3
+<FILENAME>letteroftrans.txt
+<TEXT>
+
+                              LETTER OF TRANSMITTAL
+
+                       HYPERION STRATEGIC BOND FUND, INC.
+             Pursuant to the Offer to Purchase Dated August 31, 2004
+
+          THE EXPIRATION DATE AND THE WITHDRAWAL DEADLINE IS 4:00 P.M.,
+                 EASTERN TIME, ON SEPTEMBER 30, 2004, UNLESS EXTENDED
+
+     This  Letter  of  Transmittal  is to be used only if the  stockholder  is a
+record  owner of shares  who  desires to effect  the  tender  offer  transaction
+himself  or  herself  by  transmitting  the  necessary  documents  to the Fund's
+Transfer  Agent and does not intend to  request  his or her broker to effect the
+transaction  for him or her. No certificates  will be presented.  All shares are
+held in a dividend reinvestment position.
+
+<TABLE>
+<CAPTION>
+
+- --------------------------------------------------------------------- -------------------------------------------------------------
+<S>     <C>                                                                                 <C>
+
+          Name(s) and Address(es) of Registered Holder(s)                                    Number of Shares
+               (Please Fill in Exactly the Name(s) in                                            Tendered
+                    Which Shares Are Registered)
+- --------------------------------------------------------------------- -------------------------------------------------------------
+- --------------------------------------------------------------------- -------------------------------------------------------------
+
+- --------------------------------------------------------------------- -------------------------------------------------------------
+- --------------------------------------------------------------------- -------------------------------------------------------------
+
+- --------------------------------------------------------------------- -------------------------------------------------------------
+- --------------------------------------------------------------------- -------------------------------------------------------------
+
+- --------------------------------------------------------------------- -------------------------------------------------------------
+- --------------------------------------------------------------------- -------------------------------------------------------------
+
+- --------------------------------------------------------------------- -------------------------------------------------------------
+- --------------------------------------------------------------------- -------------------------------------------------------------
+
+- --------------------------------------------------------------------- -------------------------------------------------------------
+- --------------------------------------------------------------------- -------------------------------------------------------------
+
+- --------------------------------------------------------------------- -------------------------------------------------------------
+- --------------------------------------------------------------------- -------------------------------------------------------------
+Account No.
+- --------------------------------------------------------------------- -------------------------------------------------------------
+
+
+
+REGISTRATION
+
+IF CHECKS ARE TO BE ISSUED IN A NAME OTHER THAN THAT SHOWN AT THE TOP OF THIS FORM OR ARE TO BE SENT TO AN ADDRESS OTHER
+THAN THAT SHOWN AT THE TOP OF THIS FORM, PLEASE CHECK |_|
+THE BOX AT THE RIGHT AND COMPLETE THE FOLLOWING INFORMATION
+
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+
+- --------------------------------------------------------------             ---------------------------------------------------------
+                SPECIAL ISSUANCE INSTRUCTIONS                                            SPECIAL ISSUANCE INSTRUCTIONS
+<S>                                                                        <C>
+
+To be completed ONLY if checks(s) are to be                                To be completed ONLY if check(s) are to be mailed to
+ issued in the name of someone other than the registered                   someone other than the registered holder(s) or such
+holder(s)                                                                  registered holder(s) at an address other than shown on
+                                                                           the top of this form.
+Name: __________________________________
+Address: ________________________________                                  Name: __________________________________
+________________________________________                                   Address: ________________________________
+- ----------------------------------------                                   ----------------------------------------
+
+                 EMPLOYER IDENTIFICATION OR
+                   SOCIAL SECURITY NUMBER
+
+
+
+
+- --------------------------------------------------------------             ---------------------------------------------------------
+</TABLE>
+
+
+              PLEASE READ THE ACCOMPANYING INSTRUCTIONS CAREFULLY,
+                         SIGN AND COMPLETE THE W-9 FORM
+
+
+Ladies and Gentlemen:
+
+     The  undersigned  hereby tenders to Hyperion  Strategic Bond Fund,  Inc., a
+closed-end  investment  company  incorporated  under  the  laws of the  State of
+Maryland (the "Fund"), the shares described above of its common stock, par value
+$.001 per share  (the  "Shares"),  at a price  equal to the net asset  value per
+Share  ("NAV")  calculated  on the  Expiration  Date (as defined in the Offer to
+Purchase),  in cash,  upon the  terms and  conditions  set forth in the Offer to
+Purchase dated August 31, 2004, receipt of which is hereby acknowledged,  and in
+this Letter of Transmittal (which together constitute the "Offer").
+
+     The  undersigned  hereby sells to the Fund all Shares  tendered hereby that
+are  purchased  pursuant  to the Offer and hereby  irrevocably  constitutes  and
+appoints the Transfer  Agent as attorney in fact of the  undersigned,  with full
+power of substitution  (such power of attorney being deemed to be an irrevocable
+power coupled with an interest), to present such Shares and any applicable Share
+certificates   for  cancellation  of  such  Shares  on  the  Fund's  books.  The
+undersigned  hereby warrants that the undersigned has full authority to sell the
+Shares tendered  hereby and that the Fund will acquire good title thereto,  free
+and clear of all liens, charges,  encumbrances,  conditional sales agreements or
+other obligations  relating to the sale thereof,  and not subject to any adverse
+claim,  when and to the extent the same are purchased by it. Upon  request,  the
+undersigned  will  execute and deliver any  additional  documents  necessary  to
+complete the sale in accordance with the terms of the Offer.
+
+     The undersigned  recognizes that under certain  circumstances  set forth in
+the Offer to  Purchase,  the Fund may not be  required  to  purchase  any of the
+Shares tendered hereby. In that event, the undersigned  understands that, in the
+case of Shares  evidenced  by  certificates,  certificate(s)  for any Shares not
+purchased will be returned to the undersigned at the address indicated above. In
+the case of Shares  not  evidenced  by  certificates  and held in an  investment
+account,  the Transfer  Agent will cancel the tender order and no Shares will be
+withdrawn from the account.
+
+     All authority  herein conferred or agreed to be conferred shall survive the
+death or incapacity of the  undersigned  and the  obligation of the  undersigned
+hereunder shall be binding upon the heirs, personal representatives,  successors
+and assigns of the  undersigned.  Except as stated in the Offer,  this tender is
+irrevocable.
+
+
+                                    SIGN HERE
+                         (See Instructions 1, 5, and 8)
+
+SIGNATURE(S) OF
+STOCKHOLDERS ____________________________________________________________
+- -----------------------------------------------------------------------------
+
+DATED:____________________________________
+
+     Must be signed by registered  holder(s)  exactly as name(s) appear on first
+page.  If  signature  is  by  a  trustee,  executor,  administrator,   guardian,
+attorney-in-fact, officer of a corporation or other person acting in a fiduciary
+or representative capacity, please set forth the following information:
+
+NAME(S) ____________________________________________________________________
+- -----------------------------------------------------------------------------
+
+CAPACITY (full title)  _________________________________________________________
+
+ADDRESS ___________________________________________________________________
+- -----------------------------------------------------------------------------
+
+AREA CODE AND TELEPHONE NO. ___________________________________________
+
+- -------------------------------------------------------------------------------
+
+                            GUARANTEE OF SIGNATURE(s)
+                               (SEE INSTRUCTIONS)
+
+NAME OF FIRM  _____________________________________________________________
+ADDRESS ___________________________________________________________________
+ ----------------------------------------------------------------------------
+AUTHORIZED SIGNATURE ___________________________________________________
+NAME ______________________________________________________________________
+AREA CODE AND TELEPHONE NO. ____________________________________________
+
+- -------------------------------------------------------------------------------
+
+<TABLE>
+<CAPTION>
+
+
+- ------------------------------------------------------------------------------------------------------------------------------------
+     SUBSTITUTE FORM W-9 REQUEST FOR TAXPAYER IDENTIFICATION NUMBER AND CERTIFICATION (PLEASE REFER TO ACCOMPANYING GUIDELINES)
+- ------------------------------------------------------------------------------------------------------------------------------------
+- ------------------------------------------------------------------------------------------------------------------------------------
+<S>                                                                                    <C>
+
+PART 1 - PLEASE ENTER YOUR                        ->                                   |_||_||_||_||_||_||_||_||_|
+SOCIAL SECURITY NUMBER OF
+EMPLOYER IDENTIFICATION NUMBER
+- ----------------------------------------------------------------------------------------------------------------------------------
+- -----------------------------------------------------------------------------------------------------------------------------------
+PART 2 - CERTIFICATION - Under penalties of perjury, I certify that:                 PART 3 - CERTIFICATION FOR
+                                                                                     FOREIGN RECORD HOLDERS
+     (1)  The number  shown on this form is my correct  Taxpayer  Identification
+          Number (or I am waiting for a number to be issued to me) and               Under penalties of perjury, I certify that
+                                                                                     I am not a United States citizen or
+     (2)  I am not subject to backup  withholding either because I have not been     resident (or I am signing for a foreign
+          notified by the Internal  Revenue Service ("IRS") that I am subject to     corporation, partnership, estate or trust).
+          backup withholding as a result to report all interest or dividends, or
+          the IRS has notified me that I am not subject to backup withholding.       Signature _________________________
+                                                                                     date ______________________________
+     Certification Instructions - You must cross out item (2) in Part 2 above if
+     you  have  been  notified  by the  IRS  that  you  are  subject  to  backup
+     withholding  because of  underreporting  interest or  dividends on your tax
+     return.  However,  if after being notified by the IRS that you were subject
+     to  backup  withholding  you  received  another  notification  from the IRS
+     stating that you are not longer subject to backup withholding, do not cross
+     out item (2).
+
+SIGNATURE_____________________________________                DATE_________________________________
+
+- --------------------------------------------------------------------------------------------------------------------------------
+
+</TABLE>
+
+
+
+                                  INSTRUCTIONS
+
+              Forming Part of the Terms and Conditions of the Offer
+
+     1.  Guarantee of  Signatures.  All signatures on this Letter of Transmittal
+must be guaranteed by a member firm of a registered national securities exchange
+or a commercial bank or trust company having an office,  branch or agency in the
+United  States.  This Letter of Transmittal is to be used only if you may effect
+the tender offer  transaction  yourself and do not intend to request your broker
+to effect the transaction for you.
+
+     2.  Delivery  of Letter  of  Transmittal.  A  properly  completed  and duly
+executed  Letter of  Transmittal,  should be mailed or delivered to the Transfer
+Agent on or prior to the Expiration Date at the appropriate  address as noted on
+the bottom on the last page herein and must be received  by the  Transfer  Agent
+prior to the Expiration  Date. The method of delivery of all documents is at the
+election and risk of the tendering stockholder.
+
+     3.  Inadequate  Space.  If the space provided is inadequate,  the number of
+Shares should be listed on a separate signed schedule attached hereto.
+
+     4.  Partial  Tenders.  If fewer than all of the  Shares in your  investment
+account or evidenced by any  certificate  submitted are to be tendered,  fill in
+the number of Shares  which are to be  tendered in the column  entitled  "No. of
+Shares  Tendered." If  applicable,  a new  certificate  for the remainder of the
+Shares  evidenced  by  your  old  certificate(s)  will be sent to you as soon as
+practicable  after the Expiration Date of the Offer.  All Shares  represented by
+certificate(s)  listed or in your  investment  account  are  deemed to have been
+tendered unless otherwise indicated.
+
+     5. Signatures on Letter of Transmittal, Authorization and Endorsements.
+
+          (a) If the Letter of Transmittal is signed by the registered holder of
+     the Shares  tendered  hereby,  the  signatures(s)  must correspond with the
+     name(s) in which the Shares are  registered.  (b) If the Shares are held of
+     record by two or more joint holders, all such holders must sign this Letter
+     of Transmittal.
+
+          (c) If any tendered  Shares are registered in different  names it will
+     be  necessary  to  complete,  sign and submit as many  separate  Letters of
+     Transmittal as there are different registrations of Shares.
+
+          (d) When this  Letter  of  Transmittal  is  signed  by the  registered
+     holder(s)  of the Shares  listed and, if  applicable,  of the  certificates
+     transmitted   hereby,   no   endorsements   of   certificates  or  separate
+     authorizations are required.
+
+          (e)  If  this   Letter  of   Transmittal   or  any   certificates   or
+     authorizations   are  signed  by   trustees,   executors,   administrators,
+     guardians,  attorneys in fact, officers of corporations or others acting in
+     a fiduciary or  representative  capacity,  such persons  should so indicate
+     when signing,  and must submit proper evidence  satisfactory to the Fund of
+     their authority so to act.
+
+     6. Transfer Taxes.  The Fund will pay all the taxes, if any, payable on the
+transfer  to  it  of  Shares  purchased  pursuant  to  the  Offer.  If  tendered
+certificates  are  registered in the name of any person other than the person(s)
+signing this Letter of  Transmittal,  the amount of any transfer  taxes (whether
+imposed on the registered holder or such other person) payable on account of the
+transfer  to such  person  will be  deducted  from  the  purchase  price  unless
+satisfactory  evidence of the payment of such taxes or  exemption  therefrom  is
+submitted.
+
+     7.  Irregularities.  All  questions as to the validity,  form,  eligibility
+(including  time of  receipt)  and  acceptance  of any tender of Shares  will be
+determined  by the Fund in its sole  discretion,  whose  determination  shall be
+final and binding.  The Fund  reserves  the absolute  right to reject any or all
+tenders  determined by it not to be in appropriate  form or the acceptance of or
+payment for which  would,  in the opinion of counsel for the Fund,  be unlawful.
+The Fund also reserves the absolute  right to waive any of the conditions of the
+Offer or any defect in any tender with respect to any  particular  Shares or any
+particular  stockholder,  and  the  Fund's  interpretations  of  the  terms  and
+conditions  of the  Offer  (including  these  instructions)  will be  final  and
+binding. Unless waived, any defects or irregularities in connection with tenders
+must be cured within such time as the Fund shall determine.  Tenders will not be
+deemed to have been made until all defects and irregularities have been cured or
+waived. Neither the Fund, Hyperion Capital Management, Inc., the Transfer Agent,
+nor  any  other  person  shall  be  obligated  to  give  notice  of  defects  or
+irregularities in tenders, nor shall any of them incur any liability for failure
+to give any such notice.
+
+     8. Important Tax  Information.  Under Federal income tax law, a stockholder
+whose tendered Shares are accepted for payment is required by law to provide the
+Transfer Agent (as payer) with his correct taxpayer identification number, which
+is accomplished by completing and signing the Signature Form.
+
+
+
+                    AMERICAN STOCK TRANSFER AND TRUST COMPANY
+                                 59 MAIDEN LANE
+                            NEW YORK, NEW YORK 10038
+                                   (877) 248-6417
+
+     Delivery  to an address  other than that  shown  above does not  constitute
+     valid delivery.
+
+
+
+
+
+
+
+
+(
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.
+<SEQUENCE>4
+<FILENAME>exha1iii.txt
+<TEXT>
+                                                            Exhibit (a)(1)(iii)
+
+
+                                [HCM Letterhead]
+
+
+
+                                                     August 31, 2004
+
+
+
+
+Dear Stockholder:
+
+     We are  enclosing a copy of the Hyperion  Strategic  Bond Fund,  Inc.  (the
+"Fund")  offer to purchase  dated  August 31,  2004 (the  "Offer to  Purchase"),
+292,825 issued and outstanding  shares (the "Shares").  The Offer to Purchase is
+for cash at net asset value ("NAV") per share as of the  expiration  date of the
+offer.  Together  with the Offer to Purchase we are sending you a form of Letter
+of  Transmittal  (the  "Letter")  for use by  stockholders  that you should read
+carefully.  Certain selected  financial  information with respect to the Fund is
+set forth in the Offer to Purchase.
+
+     If, after  reviewing the information set forth in the Offer to Purchase and
+Letter,  you wish to tender  Shares for purchase by the Fund,  please follow the
+instructions contained in the Offer to Purchase and Letter.
+
+     Neither the Fund nor its Board of Directors makes any recommendation to any
+stockholders as to whether or not to tender Shares. Each stockholder is urged to
+consult his or her broker or tax adviser before  deciding  whether to tender any
+Shares.
+
+     The Fund's  fiscal  year-end was July 31,  2004.  In the Fund's last fiscal
+year, the Fund  distributed  $12,775,362 to its  stockholders,  which represents
+approximately  $0.69 per share. The last NAV calculated for the Fund on July 31,
+2004 was $6.83 per share.  For the Fund's  fiscal year ended July 31, 2004,  the
+Fund's  highest  NAV was $7.50 per share and its lowest NAV was $6.82 per share.
+Requests  for  additional  copies of the Offer to  Purchase,  the Letter and any
+other  tender  offer  documents  may be  directed to the  undersigned,  Hyperion
+Capital  Management,  Inc. at (800) HYPERION.  Also, please feel free to contact
+the undersigned,  should you have any other questions on the enclosed  material.
+We appreciate your continued interest in the Hyperion Strategic Bond Fund, Inc.
+
+                                              Yours truly,
+
+
+                                              Hyperion Capital Management, Inc.
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.
+<SEQUENCE>5
+<FILENAME>exha1iv.txt
+<TEXT>
+
+
+
+
+
+- ------------------------------------------------------------------------------
+
+
+
+This announcement is not an offer to purchase or solicitation of offers to sell
+Shares. The Offer is made only by the Offer to Purchase dated August 31, 2004,
+and the related Letter of Transmittal. The Offer is not being made to, nor will
+tenders be accepted from or on behalf of, holders of Shares in any jurisdiction
+in which making or accepting the Offer would violate that jurisdiction's laws.
+
+
+
+                       Hyperion Strategic Bond Fund, Inc.
+
+                      Notice of Offer to Purchase for Cash
+                  292,825 of its Issued and Outstanding Shares
+                          at Net Asset Value Per Share
+
+                          -----------------------------
+
+
+
+ ------------------------------------------------------------------------------
+          THE EXPIRATION DATE AND THE WITHDRAWAL DEADLINE FOR THE OFFER
+   is 4:00 p.m., EASTERN TIME ON THURSDAY SEPTEMBER 30, 2004, UNLESS EXTENDED.
+ ------------------------------------------------------------------------------
+
+
+     Hyperion  Strategic Bond Fund, Inc. (the "Fund") is offering to purchase up
+to 292,825 of its issued and outstanding  shares of common stock par value $.001
+per share (the "Shares") at a price equal to their net asset value ("NAV") as of
+the close of business on the New York Stock  Exchange  on the  Expiration  Date,
+September 30, 2004, unless extended,  upon the terms and conditions set forth in
+the Offer to Purchase dated August 31, 2004 (the  "Offer").  The NAV on July 30,
+was $6.83 per Share.
+
+     The  purpose  of  the  Offer  is  to  provide   liquidity   to  the  Fund's
+stockholders,  since the Fund's shares are not sold on a secondary  market.  The
+Offer is not conditioned upon the tender of any minimum number of Shares.
+
+     If more than 292,825  Shares are duly tendered  prior to the  expiration of
+the Offer assuming no changes in the factors originally considered by the Fund's
+Board of Directors  when it determined  to make the Offer,  the Fund will either
+(1) extend its Offer  period,  if  necessary,  and increase the number of Shares
+that the Fund is offering to  purchase  to an amount  which it believes  will be
+sufficient  to  accommodate  the excess Shares  tendered,  as well as any Shares
+tendered  during the extended Offer period,  or (2) purchase  292,825 Shares (or
+such larger number of Shares sought), on a pro rata basis.
+
+     Shares tendered pursuant to the Offer may be withdrawn at any time prior to
+4:00 p.m.,  Eastern time on Thursday,  September  30, 2004,  unless the offer is
+extended,  and, if not yet accepted for payment by the Fund,  Shares may also be
+withdrawn after October 28, 2004.
+
+     The information  required to be disclosed by paragraph (d)(1) of Rule 13e-4
+under the Securities Exchange Act of 1934, as amended, is contained in the Offer
+to Purchase and is incorporated herein by reference.
+
+     The Offer to Purchase and the related  Letter of  Transmittal  for the Fund
+contain important  information that should be read carefully before any decision
+is made with respect to the Offer.
+
+     Questions  and  requests  for  assistance  or for  copies  of the  Offer to
+Purchase,  the  Fund's  Letter  of  Transmittal,  and  any  other  tender  offer
+documents,  may be  directed to  Jennifer  Donovan at the address and  telephone
+number  below.  Copies will be furnished  promptly at no expense to you and also
+may be obtained by completing  and returning the coupon below to American  Stock
+Transfer & Trust.
+
+                                 1-800-HYPERION
+
+    ------------------------------------------------------------------------
+
+    Mail to: American Stock Transfer & Trust
+             59 Maiden Lane
+             New York, NY  10038
+
+    Please send me Hyperion Strategic Bond Fund, Inc. Tender Offer materials
+
+    Name__________________________Address__________________________________
+    Business Phone _______________City  ___________________________________
+    Home Phone ___________________ State_____________________Zip _________
+
+
+
+
+
+    ------------------------------------------------------------------------
+
+    August 31, 2004   Hyperion Capital Management, Inc.  [LOGO]
+    ------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.
+<SEQUENCE>6
+<FILENAME>exha5iv.txt
+<TEXT>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+We hereby consent to the use in this Schedule TO of our reports dated  September
+19, 2002 and  September 19, 2003,  relating to the  financial  statements of The
+Hyperion  Strategic Bond Fund,  Inc.,  which are  incorporated by reference into
+such Schedule TO.
+
+/s/ Schwartz & Hofflich LLP
+
+Schwartz & Hofflich LLP
+Norwalk, CT
+August 31, 2004
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 --------------------------------
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>6
+<FILENAME>hyp_may11e.txt
+<TEXT>
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+We hereby  consent to the use in this Schedule TO of our report dated  September
+15, 2005,  relating to the financial  statements of Hyperion  Brookfield  Income
+Fund, Inc.  (formerly Hyperion Strategic Bond Fund, Inc.), which is incorporated
+by reference into such Schedule TO.
+
+/s/ Holtz Rubenstein Reminick LLP
+
+Holtz Rubenstein Reminick LLP
+New York, New York
+May 11, 2007
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99
+<SEQUENCE>7
+<FILENAME>hyp_may11f.txt
+<TEXT>
+
+                       CONSENT OF INDEPENDENT ACCOUNTANTS
+
+
+We hereby  consent to the use in this Schedule TO of our report dated  September
+14, 2006,  relating to the financial  statements of Hyperion  Brookfield  Income
+Fund, Inc.  (formerly Hyperion Strategic Bond Fund, Inc.), which is incorporated
+by reference into such Schedule TO.
+
+/s/ Briggs, Bunting & Dougherty LLP
+
+Briggs, Bunting & Dougherty LLP
+Philadelphia, Pennsylvania
+May 14, 2007
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
