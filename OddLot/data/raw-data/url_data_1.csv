@@ -124,11 +124,11 @@ cik,date,url,error,exp date,trading px,px date,tender px,low,high,increment,pric
 1051771,4/24/2008,https://www.sec.gov//Archives/edgar/data/1051771/000095014408003107/0000950144-08-003107-index.htm,Too illiquid,,,,,,,,,,,
 1051771,4/25/2007,https://www.sec.gov//Archives/edgar/data/1051771/000095014407003779/0000950144-07-003779-index.htm,Too illiquid,,,,,,,,,,,
 1051771,4/17/2006,https://www.sec.gov//Archives/edgar/data/1051771/000095014406003557/0000950144-06-003557-index.htm,Too illiquid,,,,,,,,,,,
-1086670,8/15/2008,https://www.sec.gov//Archives/edgar/data/1086670/000101172308000036/0001011723-08-000036-index.htm,Not listed,,,,,,,,,,,
-1086670,3/20/2008,https://www.sec.gov//Archives/edgar/data/1086670/000101172308000013/0001011723-08-000013-index.htm,Not listed,,,,,,,,,,,
-1086670,10/1/2007,https://www.sec.gov//Archives/edgar/data/1086670/000101172307000150/0001011723-07-000150-index.htm,Not listed,,,,,,,,,,,
-1086670,6/8/2007,https://www.sec.gov//Archives/edgar/data/1086670/000101172307000104/0001011723-07-000104-index.htm,Not listed,,,,,,,,,,,
-1024321,5/22/2006,https://www.sec.gov//Archives/edgar/data/1024321/000119312506117271/0001193125-06-117271-index.htm,Preliminary draft,,,,,,,,,,,
+1086670,8/15/2008,https://www.sec.gov//Archives/edgar/data/1086670/000101172308000036/0001011723-08-000036-index.htm,Incomplete filing,,,,,,,,,,,
+1086670,3/20/2008,https://www.sec.gov//Archives/edgar/data/1086670/000101172308000013/0001011723-08-000013-index.htm,Incomplete filing,,,,,,,,,,,
+1086670,10/1/2007,https://www.sec.gov//Archives/edgar/data/1086670/000101172307000150/0001011723-07-000150-index.htm,Incomplete filing,,,,,,,,,,,
+1086670,6/8/2007,https://www.sec.gov//Archives/edgar/data/1086670/000101172307000104/0001011723-07-000104-index.htm,Incomplete filing,,,,,,,,,,,
+1024321,5/22/2006,https://www.sec.gov//Archives/edgar/data/1024321/000119312506117271/0001193125-06-117271-index.htm,Incomplete filing,,,,,,,,,,,
 315858,3/20/2018,https://www.sec.gov//Archives/edgar/data/315858/000117494718000422/0001174947-18-000422-index.htm,Duplicate,,,,,,,,,,,
 1019439,7/31/2000,https://www.sec.gov//Archives/edgar/data/1019439/000091205700033897/0000912057-00-033897-index.htm,,8/30/2000,4.625,7/28/2000,6.25,,,,,"3,500,000","11,976,350",Tender Offer
 722104,8/14/2006,https://www.sec.gov//Archives/edgar/data/722104/000112528206004975/0001125282-06-004975-index.htm,,9/12/2006,5.59,8/11/2006,,5.8,6.8,0.1,,"10,000,000","61,870,000",Modified Dutch Auction
